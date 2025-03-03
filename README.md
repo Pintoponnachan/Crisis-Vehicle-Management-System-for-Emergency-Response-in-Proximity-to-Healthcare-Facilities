@@ -41,16 +41,17 @@ The software requirements specify the system’s functionality and serve as a fo
 
 ## System Architecture:
 
+![picture4](https://github.com/user-attachments/assets/6cfb74c2-7738-4f15-8568-3dd435766ace)
 
-## Prediction Output:
-![](Prediction1.png)
+## Output:
+![Picture4](https://github.com/user-attachments/assets/00949679-7088-4b10-80d2-4c2fbf8e6ab9)
 
-![](Prediction2.png)
+![Picture5](https://github.com/user-attachments/assets/1d3e2772-85ee-45eb-8885-325756aa96d4)
 
-## Accuracy:
-![](Training-Accuracy.png)
+![Picture6](https://github.com/user-attachments/assets/619a63d1-c533-43d4-97cd-560f0799160e)
 
-![](Testing-Accuracy.png)
+![Picture7](https://github.com/user-attachments/assets/68f91c02-b141-422d-b93d-522105bfdb1e)
+
 ## Results:
 The **expected results** from the **Crisis Vehicle Management System** include:  
 
